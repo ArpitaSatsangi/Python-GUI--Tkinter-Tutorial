@@ -13,3 +13,10 @@
 5. ![5](https://github.com/ArpitaSatsangi/Python-GUI--Tkinter-Tutorial/assets/107709451/3b98d51a-fc3d-41c5-aa11-b60d5f03f472)
 
 6. ![6](https://github.com/ArpitaSatsangi/Python-GUI--Tkinter-Tutorial/assets/107709451/61c12376-e6df-44df-9624-1eecd1e3a9cb)
+
+7. ![7](https://github.com/ArpitaSatsangi/Python-GUI--Tkinter-Tutorial/assets/107709451/dfeecc35-31c6-44d9-81e8-a44607af0df8)
+
+8. ![calculator1](https://github.com/ArpitaSatsangi/Python-GUI--Tkinter-Tutorial/assets/107709451/d87887e9-7e0e-44fd-bb7e-fc6ec1c32ef3) 
+![calculator2](https://github.com/ArpitaSatsangi/Python-GUI--Tkinter-Tutorial/assets/107709451/d08fda87-988b-4330-97e1-ed54ae2e5d12)
+
+
